@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/matthewtirrell/Desktop'
+let g:netrw_dirhist_2='/Users/matthewtirrell'
+let g:netrw_dirhist_3='/Users/matthewtirrell/.vim'
+let g:netrw_dirhist_4='/Users/matthewtirrell/.vim/bundle'
+let g:netrw_dirhist_5='/Users/matthewtirrell/DevLeague/PixelPainter/.git'
+let g:netrw_dirhist_6='/Users/matthewtirrell/DevLeague/PixelPainter'
+let g:netrw_dirhist_7='/Users/matthewtirrell/.oh-my-zsh'
